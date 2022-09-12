@@ -2,10 +2,10 @@
   "root": true,
   "api": {
     "dataset": "production",
-    "projectId": "ch0ck8ut"
+    "projectId": "og13cvet"
   },
   "project": {
-    "name": "homepage-starter"
+    "name": "Gatsby"
   },
   "plugins": [
     "@sanity/base",
